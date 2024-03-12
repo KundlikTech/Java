@@ -5,8 +5,8 @@ public class PrintA2Z {
         //     System.out.println(character);
         //     character++;
         // }
-        char x=1;
-        int a=1;
+        char x=0;
+        int a=0;
         while(x<=127){
             System.out.println(a+"\t "+x);
             a++;
